@@ -1,5 +1,5 @@
 # DNSRelay
-A project of Curriculum Practice of Computer Networks.
+A project of Advanced Labs in Computer Networks.
 Provides following features:
 
 1. Domain name query with local domain-name-IP table (DNS Server).
